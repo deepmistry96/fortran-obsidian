@@ -4,15 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1fe53c37a9e8ea",
+        "id": "9277513787b790e1",
         "type": "tabs",
         "children": [
           {
-            "id": "a06ad760cced626e",
+            "id": "483a93acf3f5c9ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89dd0e7beb347125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "220bb323d7303f41",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +137,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arrays.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06ad760cced626e",
-  "lastOpenFiles": []
+  "active": "483a93acf3f5c9ec",
+  "lastOpenFiles": [
+    "Data Structures.md",
+    "Arrays.md",
+    "Integer.md",
+    "notees/Scalar Types.md",
+    "Character.md",
+    "Real.md",
+    "Derived.md",
+    "Logical.md",
+    "Complex.md",
+    "Declaring.md",
+    "compiler.md",
+    "DATA STATEMENT.md",
+    "Declare, Instantiate, Initialize, Assign.md",
+    "Instantiating.md",
+    "Instantiate.md",
+    "Initializing.md",
+    "Initialize.md",
+    "Assigning.md",
+    "Formula Translator (fortran).md",
+    "notees/Common Logic Structures.md",
+    "notees/Basic Syntax.md",
+    "notees/Arrays and Matricies.md",
+    "notees",
+    "notees/Common Pitfalls.md",
+    "notees/Key Features.md",
+    "notees/Learning Path.md",
+    "notees/Parallel Computation.md"
+  ]
 }

@@ -16,7 +16,7 @@ Fortran, derived from "Formula Translation," is one of the oldest programming la
 
 ### **[[Key Features]]**
 
-- **Array Handling**: Fortran provides built-in support for array operations, making it suitable for complex mathematical computations.
+- **[[Array]] Handling**: Fortran provides built-in support for array operations, making it suitable for complex mathematical computations.
 - **Rich Set of Libraries**: Fortran has extensive libraries for linear algebra, numerical methods, etc.
 - **Portability**: Programs written in Fortran can often be run on different platforms with little modification.
 - **Fixed and Free Formats**: Older versions of Fortran (like Fortran 77) used a fixed-format style, whereas newer versions (like Fortran 90 and later) support free-format coding.
@@ -44,7 +44,7 @@ To start learning Fortran effectively, consider these steps:
 
 ### **[[Common Pitfalls]]**
 
-- **Forgetting Type Declarations**: Fortran requires variables to be declared, and type mismatches can lead to errors.
+- **Forgetting about [[declaring]] the type: Fortran requires variables to be declared, and type mismatches can lead to errors.
 - **Array Bounds**: Be attentive to array bounds; trying to access an array element outside its declared range often leads to runtime errors.
 
 

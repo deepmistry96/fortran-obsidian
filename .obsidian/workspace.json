@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
+                "file": "Declare, Instantiate, Initialize, Assign.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays.md",
+                "file": "Declare, Instantiate, Initialize, Assign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays.md",
+                "file": "Declare, Instantiate, Initialize, Assign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays.md"
+                "file": "Declare, Instantiate, Initialize, Assign.md"
               }
             }
           }
@@ -160,32 +159,32 @@
   },
   "active": "483a93acf3f5c9ec",
   "lastOpenFiles": [
-    "Data Structures.md",
     "Arrays.md",
-    "Integer.md",
-    "notees/Scalar Types.md",
-    "Character.md",
-    "Real.md",
-    "Derived.md",
+    "notees/Common Logic Structures.md",
+    "Assigning.md",
+    "Logical Types.md",
+    "Pointers.md",
+    "Modules.md",
     "Logical.md",
-    "Complex.md",
-    "Declaring.md",
-    "compiler.md",
-    "DATA STATEMENT.md",
-    "Declare, Instantiate, Initialize, Assign.md",
+    "Integer.md",
     "Instantiating.md",
     "Instantiate.md",
-    "Initializing.md",
-    "Initialize.md",
-    "Assigning.md",
-    "Formula Translator (fortran).md",
-    "notees/Common Logic Structures.md",
-    "notees/Basic Syntax.md",
-    "notees/Arrays and Matricies.md",
-    "notees",
-    "notees/Common Pitfalls.md",
-    "notees/Key Features.md",
+    "Derived Types.md",
+    "Declaring.md",
+    "Declare, Instantiate, Initialize, Assign.md",
+    "declaration.md",
+    "Data Structures.md",
+    "DATA STATEMENT.md",
+    "complex data structures.md",
+    "Complex.md",
+    "compiler.md",
+    "Character.md",
+    "Real.md",
+    "notees/Scalar Types.md",
+    "notees/Parallel Computation.md",
     "notees/Learning Path.md",
-    "notees/Parallel Computation.md"
+    "notees/Key Features.md",
+    "notees/Talking to C.md",
+    "notees"
   ]
 }

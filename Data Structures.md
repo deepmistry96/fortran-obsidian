@@ -22,7 +22,7 @@ These structures collectively enhance the ability to efficiently manage and oper
 
 
 
-### **Arrays**
+### **[[Arrays]]**
 
 Fortran has powerful support for arrays, which are collections of elements of the same type. Arrays can be:
 

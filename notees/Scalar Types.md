@@ -50,7 +50,7 @@ Understanding the various data types in Fortran is crucial because they directly
 
 
 
-### **[[Derived]]**
+### **[[Derived Types]]**
 
 - **`TYPE`**: Fortran allows you to define your own data types using `TYPE` to group different data elements, similar to structures in C.
 

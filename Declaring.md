@@ -235,7 +235,7 @@ Initial:  J
 
 
 
-[[Derived]]
+[[Derived Types]]
 
 
 

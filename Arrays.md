@@ -49,7 +49,13 @@ arr(5) = 50      ! Sets the fifth element to 50
 ```
 
 
+for a one-dimensional array, you can access elements by their index as follows:
 
+```fortran
+integer :: nums(5)      ! Declare an array of size 5
+nums(1) = 10            ! Assign value 10 to the first element (indexing starts at 1)
+nums(2) = 20            ! Assign value 20 to the second element
+```
 
 ### **Multi-Dimensional Arrays**
 
